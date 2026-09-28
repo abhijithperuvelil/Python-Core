@@ -1,0 +1,10 @@
+s='PythonProgramming'
+print(len(s))
+print(s[::-1])
+print(s[-1])
+print(s[12])
+print(s[2:16])
+s=s+('ComputerScience')
+print(s)
+print(s[10:])
+print(s[-5:])
